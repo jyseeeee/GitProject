@@ -20,6 +20,10 @@
             android:name=".GithubActivity"
             android:label="@string/title_activity_github" >
         </activity>
+        <activity
+            android:name=".ModuleActivity"
+            android:label="@string/title_activity_module" >
+        </activity>
     </application>
 
 </manifest>

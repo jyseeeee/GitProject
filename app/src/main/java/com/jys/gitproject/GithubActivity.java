@@ -12,6 +12,8 @@ public class GithubActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_github);
+
+        //깃허브 액티비티
     }
 
     @Override
